@@ -2,6 +2,8 @@
 
 Docker image for testing flutter app in wercker
 
+[ryosms/flutter-tester - Docker Hub](https://hub.docker.com/r/ryosms/flutter-tester/)
+
 ### Usage
 
 1. Setup [wercker](https://www.wercker.com/) Pipeline.
