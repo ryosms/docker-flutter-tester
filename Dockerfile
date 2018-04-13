@@ -1,4 +1,5 @@
 FROM ubuntu:18.04
+LABEL maintainer "ryosms <ryo.sms@gmail.com>"
 
 RUN mkdir -p /work
 WORKDIR /work
